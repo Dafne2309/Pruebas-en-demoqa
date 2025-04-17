@@ -37,7 +37,7 @@ Las pruebas fueron ejecutadas directamente desde Visual Studio Code, abriendo el
 
 No es necesario usar comandos ni abrir una terminal.
 
-VIDEO:
+VIDEO:**https://youtu.be/8xLIIk1g6Ds**
 
 ##QUE ES EL MODO HEADLESS
 
