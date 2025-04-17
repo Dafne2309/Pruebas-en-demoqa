@@ -15,8 +15,6 @@ Este proyecto tiene como objetivo automatizar algunas pruebas en la página **ht
 
 -Códigos Python para generar archivos HTML con los resultados.
 
--Los archivos .html que muestran esos resultados.
-
 -Este archivo README.md con la explicación del proyecto.
 
 -Video demostrativo de como se ejecutan las pruebas en el IDE
